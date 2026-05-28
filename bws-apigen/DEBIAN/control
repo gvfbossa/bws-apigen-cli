@@ -1,0 +1,7 @@
+Package: bws-apigen
+Version: 1.0.0
+Section: base
+Priority: optional
+Architecture: amd64
+Maintainer: Bossa Web Solutions
+Description: CLI to generate Spring Boot REST APIs from @Entity classes

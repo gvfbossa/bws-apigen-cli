@@ -1,0 +1,26 @@
+[
+  {
+    "name": "com.bossawebsolutions.bwsapigencli.application.dto.LoginResponse",
+    "allDeclaredConstructors": true,
+    "allDeclaredFields": true,
+    "allDeclaredMethods": true
+  },
+  {
+    "name": "com.bossawebsolutions.bwsapigencli.application.dto.AuthCache",
+    "allDeclaredConstructors": true,
+    "allDeclaredFields": true,
+    "allDeclaredMethods": true
+  },
+  {
+    "name": "com.bossawebsolutions.bwsapigencli.model.EntityMeta",
+    "allDeclaredConstructors": true,
+    "allDeclaredFields": true,
+    "allDeclaredMethods": true
+  },
+  {
+    "name": "com.bossawebsolutions.bwsapigencli.model.FieldMeta",
+    "allDeclaredConstructors": true,
+    "allDeclaredFields": true,
+    "allDeclaredMethods": true
+  }
+]

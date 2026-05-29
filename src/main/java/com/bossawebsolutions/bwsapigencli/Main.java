@@ -18,12 +18,11 @@ import java.util.Scanner;
 
 public class Main {
 
-    //TODO -> VIDEO!!!!!!!!!
-    //TODO -> Verificar métodos de cobrança (sem plano, compra única. 1, 5 ou 10 máquinas)
-    //TODO -> rebuildar a CLI pela ultima vez no Windows e LINUX e colocar no projeto do front
-    //TODO -> Deploy da API na Hetzner, substtituir a URL no CLI.
-    //TODO -> Deploy do front no firebase
-    //TODO -> API verificar segurança - allowedOrigins
+    //TODO -> substtituir a URL no CLI
+    //TODO -> rebuildar a CLI pela ultima vez no Windows e LINUX e adicionar os downloadables nos resources
+    //TODO -> VIDEO
+    //TODO -> TERMS
+    //TODO -> Deploy da API na Hetzner
 
     public static void main(String[] args) throws Exception {
         System.out.println("🚀 BWS ApiGen CLI");

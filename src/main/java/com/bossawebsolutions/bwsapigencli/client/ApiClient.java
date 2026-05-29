@@ -15,11 +15,9 @@ public class ApiClient {
 
     private static final ObjectMapper mapper = new ObjectMapper();
 
-    private static final String BASE_URL =
-            System.getenv().getOrDefault(
-                    "BWS_APIGEN_URL",
-                    "http://localhost:8080" //https://api.bwsapigen.bossawebsolutions.com.br
-            ).replaceAll("/+$", "");
+    private static boolean dev = false;
+
+    private static final String BASE_URL = dev ? "https://api.bwsapigen.bossawebsolutions.com.br" : "http://localhost:8080";
 
     // ------------------------
     // LOGIN

@@ -34,3 +34,4 @@ Put this on the file contents:
 `dpkg-deb --build bws-apigen && sudo dpkg -i bws-apigen.deb`
 
 # HOW TO BUILD THE CLI ON WINDOWS #
+--Pendente...

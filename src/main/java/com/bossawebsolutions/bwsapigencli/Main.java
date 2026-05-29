@@ -18,11 +18,8 @@ import java.util.Scanner;
 
 public class Main {
 
-    //TODO -> substtituir a URL no CLI
-    //TODO -> rebuildar a CLI pela ultima vez no Windows e LINUX e adicionar os downloadables nos resources
-    //TODO -> VIDEO
-    //TODO -> TERMS
     //TODO -> Deploy da API na Hetzner
+    //TODO -> VIDEO
 
     public static void main(String[] args) throws Exception {
         System.out.println("🚀 BWS ApiGen CLI");
